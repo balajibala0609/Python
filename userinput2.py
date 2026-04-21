@@ -1,0 +1,8 @@
+Name=input("Enter the name")
+Age=int(input("Enter age"))
+Height=float(input("Enter the height"))
+Place=input("Enter the place")
+print("Name is",Name)
+print("Age is",Age)
+print("Height is",Height)
+print("Place is",Place)
