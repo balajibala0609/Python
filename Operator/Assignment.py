@@ -1,10 +1,10 @@
-#alpha=15
-#beta=alpha
-#print(beta)
-#beta+=alpha
-#print(beta)
-#beta-=alpha
-#print(beta)
+alpha=15
+beta=alpha
+print(beta)
+beta+=alpha
+print(beta)
+beta-=alpha
+print(beta)
 
 #Stock
 stock=100

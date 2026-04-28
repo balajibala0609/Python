@@ -1,15 +1,15 @@
-#alpha=1500
-#beta=140
-#result=alpha+beta
-#print("Add",result)
-#result=alpha-beta
-#print("Sub",result)
-#result=alpha*beta
-#print("Mul",result)
-#result=alpha/beta
-#print("Div",result)
-#result=alpha%beta
-#print("Modulo",result)
+alpha=1500
+beta=140
+result=alpha+beta
+print("Add",result)
+result=alpha-beta
+print("Sub",result)
+result=alpha*beta
+print("Mul",result)
+result=alpha/beta
+print("Div",result)
+result=alpha%beta
+print("Modulo",result)
 
 #Discount price
 
