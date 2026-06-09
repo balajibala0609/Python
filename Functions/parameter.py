@@ -6,8 +6,8 @@ def hiring(qual,ref):
         print("You are hired in kpo company")
     else:
         print("You are Hired")
-    hiring(qual='Ug',ref='hr')
-    hiring(qual='Pg',ref='Team lead')
+hiring(qual='Ug',ref='hr')
+hiring(qual='Pg',ref='Team lead')
     
     
 #def hiring(qual,ref):
