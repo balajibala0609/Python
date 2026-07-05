@@ -20,3 +20,29 @@ dept.append('csbs')
 dept1=tuple(dept)
 print(dept1)
 
+#adding tuple to tuple
+cosmo=('balaji','prem','raju')
+cosmo1=('rahul',)
+cosmo+=cosmo1
+print(cosmo)
+
+#join
+cooling=('ooty','mysore','yercaud','kodai')
+places=(1,2,3,4)
+output=cooling+places
+print(output)
+
+#join
+cooling=('coorg','wagamon','kollukkumalai','munnar')
+join=cooling*4
+print(join)
+
+#range in for
+value=(315,513,'balaji','sam')
+for i in range(len(value)):
+    print(value[i])
+for i in value:
+    print(i)
+    print(value)
+
+
