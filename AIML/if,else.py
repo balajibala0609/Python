@@ -58,9 +58,7 @@ if age >60:
 else:
     print("number less then 60")
  
-price = float(input("Enter the price of the item: "))
-total = price * quantity
-print("Your total cost is:", total)
+
 
 marks=int(input("enter the marks"))
 if marks <0 or marks >100:
@@ -107,4 +105,4 @@ elif age >= 18 and not has_id:
     print("bring valid id")
     
 else:
-    print("invalid input")     
+    print("invalid input")
